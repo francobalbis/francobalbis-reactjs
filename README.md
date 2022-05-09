@@ -1,0 +1,1 @@
+Este es mi proyecto. Elegí hacer un e-commerce sobre vestimenta deportiva porque me gustan los deportes. Elegí hacer 3 rutas porque me parecieron las necesarias e incluir 3 productos. Más adelante pondré mas.
