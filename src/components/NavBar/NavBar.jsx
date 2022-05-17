@@ -17,7 +17,7 @@ function NavBar(props) {
                 <li><NavLink to='/category/accesorios' className={nav => nav.isActive ? 'nav-active' : ''}>Accesorios</NavLink></li>
                 <li><NavLink to='/category/ropadeportiva' className={nav => nav.isActive ? 'nav-active' : ''}>Ropa Deportiva</NavLink></li>
             </ul>
-            <CartWidget/>
+            <CartWidget />
         </div>
     );
 }
